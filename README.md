@@ -2,8 +2,7 @@
 
 - 🔭 Estou aprendendo Typescript
 - 🌱 Tenho conhecimento em JavaScript, Node.js, GIT, PostgresSQL, HTML, CSS
-- 😄 Pronouns: ela/dela
-- ⚡ Curiosidade: Os colibris são os únicos animais que podem voar para trás 
+- ⚡ Curiosidade: O mascote do Mozilla Firefox não é uma raposa 
 
 
 ##
