@@ -1,6 +1,6 @@
 ### Olá, eu sou a Ingrid Beatriz👋
 
-- 🔭 Estou aprendendo Typescript
+- 🔭 Estou aprendendo Java 
 - 🌱 Tenho conhecimento em JavaScript, Node.js, GIT, PostgresSQL, HTML, CSS
 - ⚡ Curiosidade: O mascote do Mozilla Firefox não é uma raposa 
 
@@ -26,7 +26,7 @@
 ### Linguagem que estou aprendendo
 
 <div style="display: inline_block"><br>
-<img align="center" alt="Typescript" hetght="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+<img align="center" alt="Java" hetght="30" width="40" src="https://img.icons8.com/?size=100&id=GPfHz0SM85FX&format=png&color=000000">
 
 ##
 
